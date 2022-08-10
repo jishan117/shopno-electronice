@@ -1,0 +1,267 @@
+/* slide nav start  */
+
+.slidenav{
+    background-color: #1c1b1c;
+    display: none;
+}
+
+
+.optionbutton{
+    display: none;
+}
+/* slide nav end */
+
+/* nav 1 start */
+.nav1{
+     
+    height:40px;
+    background-color: rgb(216, 218, 218);
+    display: flex;
+    justify-content: space-between;
+}
+.nav1-left{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 10px;
+}
+.nav1-right{
+    width: 10%;
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.5rem;
+    align-items: center;
+}
+
+/* nav 1 end */
+
+/* nav 2 start */
+.nav2{
+    
+    height: 80px;
+    background-color: #8C3493;
+}
+
+.nav2-left button{
+    display: none;
+}
+.nav2 img{
+    position: relative;
+    animation-name: logo;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    
+}
+@keyframes logo{
+    0%{left: 0px;}
+    50%{left: 100px;}
+    100%{left:0px}
+}
+.nav2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav2 button {
+    border: none ;
+    border-radius: 10px;
+    padding: 5px 15px;
+    background-color: #ffffff;
+    color: black;
+    text-decoration: none;
+}
+.nav2 a{
+    text-transform: capitalize;
+    color: black;
+    text-decoration: none;
+}
+.nav2 button:hover{
+    transition: 1s;
+    background-color: #8C3493;
+    
+}
+.nav2 button:hover .a {
+    transition: 1s;
+    color: #ffffff;
+    font-weight: bolder;
+}
+
+/* nav 2 end */
+
+
+/* main 1 start */
+
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    height: 700px;
+}
+.main-left{
+    width: 50%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+}
+.main-right{
+    width: 50%;
+    height:100%;
+}
+.main h1{
+    padding: 50px;
+    
+    line-height: 4rem;
+    font-size: 50px;
+    color: rgb(107, 14, 84);
+    position: relative;
+    animation-name: h1;
+    animation-duration: 2s;
+
+    
+}
+@keyframes h1{
+    from{left:-100px;
+        opacity: 0% ;
+    }
+    to{left: 0px;}
+}
+
+
+/* main 1 end */
+
+
+/* main 2 start */
+
+
+.main2{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    background-color: #e6e6e600;
+}
+
+.main2-left{
+    width: 50%;
+    position: relative;
+    animation-name: main2l;
+    animation-duration: 2s;
+}
+@keyframes main2l{
+   /* 0%{left: -100px;}
+    100%{left: 0px;} */
+}
+.main2-right{
+    width: 50%;
+
+}
+.main2-right h2{
+    color: #8C3493;
+}
+
+
+
+
+/* main 2 end */
+
+/* main 3 start */
+.main3{
+    height: 100vh;
+    justify-content: space-between;
+}
+.main3{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF;
+   
+}
+.main3 img{
+    margin: 0 auto;
+}
+.main3-left{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main3-right{
+    width: 50%;
+    height: 100%;
+}
+.main3-left h1{
+    line-height: 130%;
+    color: #8C3493;
+}
+
+
+/* main 3 end */
+/* main 4 start */
+
+
+
+.main4-left{
+   width: 20%;
+}
+
+.main4-right{
+    width: 80%;
+}
+
+/* main 4 end */
+
+/* inner staf start */
+
+#innerstafs{
+    background-color: rgb(232, 232, 232);
+    height: 400px;
+    width: 70%;
+    
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px auto;
+}
+
+
+/* inner staf end */
+
+/* supervaisor start */
+
+
+#supervaisors{
+    background-color: rgb(243, 243, 243);
+    height: 400px;
+    width: 100%;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px 0px;
+}
+
+/* suprevaisor end */
+
+/* footer start */
+
+
+footer{
+    justify-content: space-between;
+    align-items: center;
+    grid-gap: 10px;
+    padding: 20px 20px;
+    height: 350px;
+}
+.footer-left a{
+    
+}
+
+/*footer end */

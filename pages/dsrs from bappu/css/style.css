@@ -1,0 +1,156 @@
+/* common style start */
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.optionbutton{
+    display: none;
+}
+.body{
+    scroll-behavior: smooth;
+}
+i{
+    color: black;
+}
+i:hover{
+    transition: 1s;
+    color: #8C3493;
+}
+a{
+    margin: 0 auto;
+    text-decoration: none;
+    z-index: 5;
+}
+
+/* common style end */
+
+
+/* nav 1 start */
+.nav1{
+    position: relative;
+}
+
+.nav1 a{
+    color: black;
+    text-decoration: none;
+    
+}
+.nav1 a:hover{
+    transition: 1s;
+    color: #8C3493;
+}
+.nav1 a:hover{
+    transition: 1s;
+    color: #8C3493;
+}
+.nav1 a:hover{
+    transition: 1s;
+    color: #8C3493;
+}
+
+/* nav 1 end */
+
+/* nav 2 start  */
+
+.nav2-left{
+    position: relative;
+}
+
+
+
+
+/* nav 2 end */
+
+
+/* servisrs start  */
+
+
+
+
+
+
+/* dsrs start */
+
+#dsrs{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: #f5f5f5;
+}
+
+.card{
+    display: flex;
+    
+    flex-direction: row;
+    border-radius: 10px;
+    height: 90px;
+    margin: 21px auto;
+    border: none;
+    box-shadow: 1px 1px 9px 1px;
+
+
+}
+.cardleft{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cardleft img{
+    border-radius: 50%;
+}
+.cardmdl{
+    width: 60%;
+    font-size: 0.7rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 55px 0px;
+    color:rgb(66, 65, 65) ;
+}
+
+.cardmdl a{
+    margin-left: 18px;
+    color:rgb(66, 65, 65) ;
+}
+
+.cardright{
+    width: 30%;
+    text-align: center;
+    font-size: 0.7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cardright:hover{
+    background-color: rgb(230, 229, 232);
+}
+
+/* dsrs end */
+
+/* footer */
+
+footer{
+    background-color: black;
+    display: flex;
+    color: #59595c;
+    border-radius: 20px;
+    position: relative;
+    z-index: 7;
+    
+}
+footer a{
+    color: aliceblue;
+}
+footer:nth-child(3){
+    
+}
+
+.intro{
+    display: flex;
+    
+}

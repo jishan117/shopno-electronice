@@ -1,0 +1,87 @@
+/* nav 1 start */
+.nav1{
+    height: 40px;
+    background-color: rgb(216, 218, 218);
+    display: flex;
+    justify-content: space-between;
+}
+.nav1-left{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 10px;
+}
+.nav1-right{
+    width: 10%;
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.5rem;
+    align-items: center;
+}
+
+/* nav 1 end */
+
+/* nav 2 start */
+.nav2{
+    height: 80px;
+    background-color: #8C3493;
+}
+
+.nav2-left button{
+    display: none;
+}
+.nav2 img{
+    position: relative;
+    animation-name: logo;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    
+}
+@keyframes logo{
+    0%{left: 0px;}
+    50%{left: 100px;}
+    100%{left:0px}
+}
+.nav2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav2 button {
+    border: none ;
+    border-radius: 10px;
+    padding: 5px 15px;
+    background-color: #ffffff;
+    color: black;
+    text-decoration: none;
+}
+.nav2 a{
+    text-transform: capitalize;
+    color: black;
+    text-decoration: none;
+}
+.nav2 button:hover{
+    transition: 1s;
+    background-color: #8C3493;
+    
+}
+.nav2 button:hover .a {
+    transition: 1s;
+    color: #ffffff;
+    font-weight: bolder;
+}
+
+/* nav 2 end */
+
+/* footer */
+footer{
+    justify-content: space-between;
+    align-items: center;
+    grid-gap: 10px;
+    padding: 20px 20px;
+    height: 350px;
+}
+.footer-left a{
+    
+}

@@ -1,0 +1,112 @@
+/* common style start */
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.optionbutton{
+    display: none;
+}
+.body{
+    scroll-behavior: smooth;
+}
+i{
+    color: black;
+}
+i:hover{
+    transition: 1s;
+    color: #8C3493;
+}
+a{
+    margin: 0 auto;
+    text-decoration: none;
+    z-index: 5;
+}
+
+/* common style end */
+
+
+/* nav 1 start */
+.nav1{
+    position: relative;
+}
+
+.nav1 a{
+    color: black;
+    text-decoration: none;
+    
+}
+.nav1 a:hover{
+    transition: 1s;
+    color: #8C3493;
+}
+.nav1 a:hover{
+    transition: 1s;
+    color: #8C3493;
+}
+.nav1 a:hover{
+    transition: 1s;
+    color: #8C3493;
+}
+
+/* nav 1 end */
+
+/* nav 2 start  */
+
+.nav2-left{
+    position: relative;
+}
+
+
+
+
+/* nav 2 end */
+
+
+/* servisrs start  */
+
+.servises{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.servises a{
+    margin: 10px;
+    background-color: rgb(229, 227, 225);
+    width: 80%;
+    text-align: center;
+    padding: 5px;
+    text-transform: capitalize;
+    color: #8C3493;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.servises a:hover{
+    background-color: black;
+    color: #8C3493;
+    transition: 1s;
+}
+
+
+
+/* footer */
+
+footer{
+    background-color: black;
+    display: flex;
+    color: #59595c;
+    border-radius: 20px;
+    position: relative;
+    z-index: 7;
+    
+}
+footer a{
+    color: aliceblue;
+}
+footer:nth-child(3){
+    
+}

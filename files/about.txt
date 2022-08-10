@@ -1,0 +1,15 @@
+
+Rocket Model
+Dutch-Bangla Bank Limited, a technology savvy commercial bank in Bangladesh, started Rocket on 31 March, 2011. Dutch-Bangla Bank has followed a unique model for deployment of the Mobile Banking in Bangladesh. Dutch-Bangla Bank Rocket model has the following characteristics:
+
+Bank-led model: Dutch-Bangla Bank Rocket is a Bank-led model to fulfill the basic banking needs utilizing mobile phones in Bangladesh where only 24% of the adult population has bank accounts, but 60% are using mobile phones. This is contrary to the Rocket in developed countries where almost 100% of the adult people have bank account, and as such there is no need for discharging basic banking activities using mobile phones, rather there is a requirement for the banks to discharge conventional banking services over the existing bank accounts more conveniently using mobile phones.
+
+Vision: The vision of the Dutch-Bangla Bank Rocket is to promote Banking to the unbanked (unlike other models in developing countries which promote P2P or 'Send Money'), and to develop savings habit among the unbanked. Accordingly Dutch-Bangla Bank Rocket started with and providing highest importance to the registration with proper KYC, Cash-in and Cash-out activities. Other activities like P2P, disbursement of foreign remittance, salary/wages, government's/other allowances, air-time top-up, buying goods and services etc are considered as the by-product of the basic banking services.
+
+An account, not a wallet: Dutch-Bangla Bank Rocket considers the deposit of the customer as balance in his Rocket account like balance in the savings or current accounts, not as electronic money or wallet.
+
+Four Parties involved: Dutch-Bangla Bank Rocket has involved four parties – Bank, Mobile Network Operators (MNO), Agents and Customers with a commission model to suit each of the parties. The commission charged to the customers is acceptable to them (customers), and at the same time it is motivational for the Bank, MNO and agents to run their respective business. Highest priority is given to the benefits of customers and agents.
+
+Four Cash movement tiers: Customers can cash-in/cash-out at agents, agents at super agents and the super agents at bank branches. Thus all the cash is ultimately deposited at a bank branch. To make the transactions convenient, provision has been kept for the customers and agents to perform the transaction directly at bank branches/ATMs.
+
+Four Geographical tiers: To have better and close supervision on the customers, agents and super agents, develop the mobile banking market, quick and localized data entry during customer registration, and the dispute management, the country has been divided into four tiers – territory, upozila, district and division. Meantime small offices have been setup in the two middle tiers and at least 3 officers have been recruited for each of the offices from the respective localities.
